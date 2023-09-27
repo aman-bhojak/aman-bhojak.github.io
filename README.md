@@ -2,7 +2,7 @@
 ## Education
 
 ### University College of Engineering and Technology
-Bachelor of Technology (2019-23)
+**Bachelor of Technology (2019-23)**
 
 
 
