@@ -35,6 +35,10 @@
 
 - Received Goodies as stickers and one t-shirt as appreciation
 
+- **LEETCODE**:Successfully completed 80+ questions and counting more
+- **CODECHEF**:Successfully completed 100+ questions
+- **100DaysOfCode**:Following the 100 days of coding challange and continously learning 
+
 
 
 
