@@ -23,10 +23,13 @@
 
 ## Projects
 
-### Project 1
-[Source Code](link) [Live Project](link)
+### Text To Emoji Encrypt Decrypt-Js
+[Source Code](https://github.com/aman-bhojak/TextToEmojiEncryptDecrypt) 
 
-- Hands on the learning about  **Java OOP Concepts** .
+<!-- [Live Project](link) -->
+- Hands on the learning **JavaScript** .
+- Enter your text message and a password, and with the click of a button, watch it transform into a series of emojis. Each character in the message is represented by a unique emoji, making your message both fun and secure.
+- Emoji Encryption,Emoji Decryption,Local Data Storage,User-Friendly Interface.
 
 
 ## ACHIEVEMENTS
