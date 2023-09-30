@@ -23,11 +23,19 @@
 
 ## Projects
 
+### Atm Machine Console based-Core Java
+[Source Code](https://github.com/aman-bhojak/JAVA-CONCEPTS-HANDSON/blob/master/OOP/src/OOP/OOP3AtmMachine.java) 
+
+<!-- [Live Project](link) -->
+- Hands on  learning **Core Java** .
+- The Java ATM Machine mini project provides a hands-on experience in Java programming and OOP principles.
+- Implement classes and objects, inheritance and encapsulation,Conditional Statement.
+
 ### Text To Emoji Encrypt Decrypt-Js
 [Source Code](https://github.com/aman-bhojak/TextToEmojiEncryptDecrypt) 
 
 <!-- [Live Project](link) -->
-- Hands on the learning **JavaScript** .
+- Hands on learning **JavaScript** .
 - Enter your text message and a password, and with the click of a button, watch it transform into a series of emojis. Each character in the message is represented by a unique emoji, making your message both fun and secure.
 - Emoji Encryption,Emoji Decryption,Local Data Storage,User-Friendly Interface.
 
